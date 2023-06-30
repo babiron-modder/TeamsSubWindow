@@ -3,13 +3,13 @@
   "tab": [
     {
       "title":  "通知",
-      "id": "main1",
-      "url": "https://www.google.co.jp/"
+      "id": "tab1",
+      "url": "https://teams.microsoft.com/"
     },
     {
       "title": "ファイル",
-      "id": "main2",
-      "url": "https://www.google.co.jp/"
+      "id": "tab2",
+      "url": "https://teams.microsoft.com/"
     }
   ]
 }

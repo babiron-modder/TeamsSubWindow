@@ -58,6 +58,7 @@ namespace TeamsSubWindow_001
                     {
                         temp_page.Text = i.title;
                     }
+                    temp_webview.ZoomFactor = 0.8;
                     temp_webview.Dock = DockStyle.Fill;
                     temp_page.Controls.Add(temp_webview);
                     tabControl_main.TabPages.Add(temp_page);
