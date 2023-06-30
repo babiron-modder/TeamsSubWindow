@@ -1,0 +1,15 @@
+﻿{
+  "version":  "1.0.0",
+  "tab": [
+    {
+      "title":  "通知",
+      "id": "main1",
+      "url": "https://www.google.co.jp/"
+    },
+    {
+      "title": "ファイル",
+      "id": "main2",
+      "url": "https://www.google.co.jp/"
+    }
+  ]
+}
